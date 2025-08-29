@@ -1,0 +1,756 @@
+[
+    {
+        
+        "bookname": "The History of the Ancient World",
+        "authorname": "Susan Wise Bauer",
+        "type": "History",
+        "rating": 4,
+        "bookImage": "https://assets.brightspot.abebooks.a2z.com/dims4/default/551cc46/2147483647/strip/true/crop/198x300+0+0/resize/198x300!/format/jpg/quality/90/?url=http%3A%2F%2Fabebooks-brightspot.s3.amazonaws.com%2F52%2F35%2Fe55c9a4a40319171e006198da2cf%2Fbest-history07.jpg",
+        "price": 25
+    },
+    {
+        
+        "bookname": "The Last Great War",
+        "authorname": "Andrian Gregory",
+        "type": "History",
+        "rating": 3.5,
+        "bookImage": "https://m.media-amazon.com/images/I/51o6k9R2g2L._SX331_BO1,204,203,200_.jpg",
+        "price": 20
+    },
+    {
+        
+        "bookname": "Fitness Simplified",
+        "authorname": "Sahaj Kumar Sah",
+        "type": "Health and Fitness",
+        "rating": 4,
+        "bookImage": "https://cdn.exoticindia.com/images/products/original/books/nac336.jpg",
+        "price": 20
+    },
+    {
+        
+        "bookname": "The Alchemist",
+        "authorname": "Paulo Coelho",
+        "rating": 3,
+        "bookImage": "https://fourminutebooks.com/wp-content/uploads/2020/11/self-help-books-1.jpg",
+        "price": 15,
+        "type": "Personal Growth"
+    },
+    {
+        
+        "bookname": "Only Skill that Matters",
+        "authorname": "Jonathan A.LEVI",
+        "rating": 4.5,
+        "bookImage": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07WGR42TN&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=dghgeneral-20&language=en_US",
+        "price": 20,
+        "type": "Personal Growth"
+    },
+    {
+        "bookname": "Believe in Yourself",
+        "authorname": "Dr. Joseph Murphy",
+        "type": "Personal Growth",
+        "rating": 4.5,
+        "bookImage": "https://books.google.com/books/content?id=believe-in-yourself-cover&printsec=frontcover&img=1&zoom=1",
+        "price": 18
+    },
+    {
+        "bookname": "India After Gandhi",
+        "authorname": "Ramachandra Guha",
+        "type": "History",
+        "rating": 4,
+        "bookImage": "https://i0.wp.com/sgtuniversity.ac.in/wp-content/uploads/2022/04/India-after-Gandhi.jpg?resize=660%2C1024&ssl=1",
+        "price": 25
+    },
+    {
+        
+        "bookname": "Perspectives In Indian History",
+        "authorname": "M.Janakiraman PH.D",
+        "type": "History",
+        "rating": 4,
+        "bookImage": "https://kbimages1-a.akamaihd.net/2aaef2d2-8c18-4bac-99d4-541f7375bf85/1200/1200/False/perspectives-in-indian-history.jpg",
+        "price": 20
+    },
+    {
+        
+        "bookname": "Maybe You Should Talk To Someone",
+        "authorname": "Lori Gottlieh",
+        "rating": 4,
+        "bookImage": "https://img.readthistwice.com/unsafe/240x360/books/75632738-76d0-49bb-b567-43e700bff4ff.jpg",
+        "price": 17,
+        "type": "Personal Growth"
+    },
+    {
+        
+        "bookname": "Secret of Leadership",
+        "authorname": "Prakash Iyer",
+        "type": "Leadership & Entrepreneurs",
+        "rating": 4,
+        "bookImage": "https://m.media-amazon.com/images/I/517UBZ67MlL._SX321_BO1,204,203,200_.jpg",
+        "price": 15
+    },
+    {
+        
+        "bookname": "INDIAN Market",
+        "authorname": "Prateek Jain",
+        "type": "Leadership & Entrepreneurs",
+        "rating": 4,
+        "bookImage": "https://m.media-amazon.com/images/I/41c9xBIn1SL._SX331_BO1,204,203,200_.jpg",
+        "price": 20
+    },
+    {
+        
+        "bookname": "Communicating with Data",
+        "authorname": "Carl Allchin",
+        "type": "Technology",
+        "rating": 4.5,
+        "bookImage": "https://enterprisersproject.com/sites/default/files/styles/medium/public/2022-01/communicating-with-data-book.jpeg?itok=HjopCAM5",
+        "price": 25
+    },
+    {
+        
+        "bookname": "Don't Sell Make them Buy",
+        "authorname": "Mukund R",
+        "type": "Career and Success",
+        "rating": 4,
+        "bookImage": "https://m.media-amazon.com/images/I/41wUJ8vBmWL._SX323_BO1,204,203,200_.jpg",
+        "price": 13
+    },
+    {
+        
+        "bookname": "HITLER",
+        "authorname": "Ian Kershaw",
+        "type": "History",
+        "rating": 4,
+        "bookImage": "https://m.media-amazon.com/images/I/51oOaIvRNvL._SX324_BO1,204,203,200_.jpg",
+        "price": 20
+    },
+    {
+        
+        "bookname": "The Economics of Data",
+        "authorname": "Bill Schmarzo",
+        "type": "Technology",
+        "rating": 4.5,
+        "bookImage": "https://enterprisersproject.com/sites/default/files/styles/medium/public/2022-01/economics-of-data-book.jpg?itok=Dem0Xl2e",
+        "price": 20
+    },
+    {
+        
+        "bookname": "Ukraine and Russia",
+        "authorname": "Paul D'anieri",
+        "type": "History",
+        "rating": 4.5,
+        "bookImage": "https://m.media-amazon.com/images/I/51qMvBAlFKL._SX331_BO1,204,203,200_.jpg",
+        "price": 18
+    },
+    {
+        
+        "bookname": "Entrepreneur MIND",
+        "authorname": "Kevin D.Johnson",
+        "type": "Leadership & Entrepreneurs",
+        "rating": 4,
+        "bookImage": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGltxNx78I2RfW06NCr8CQ51dEkd_biL5kN3oazbLQsgrHVnQhdV8dHwUTRniDJjL_kjqpQzCq1ekRfLE6enba0Pyu4eAO5wopsnezafIg&usqp=CAE",
+        "price": 15
+    },
+    {
+        
+        "bookname": "Healthy Habit for a Healthy Life",
+        "authorname": "Samantha Scates",
+        "type": "Health and Fitness",
+        "rating": 4,
+        "bookImage": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRoildvq0ZnT1d2ETfKeYMPcAtNaKgYLDAVMjWK_S9ZVY8PuKmVeJ54-nkQrorISYxVus_otukzAd4&usqp=CAc",
+        "price": 20
+    },
+    {
+        
+        "bookname": "Building the Perfect Body",
+        "authorname": "Jitendra Chouksey",
+        "type": "Health and Fitness",
+        "rating": 4,
+        "bookImage": "https://m.media-amazon.com/images/I/41QKQpfZUzL._SY344_BO1,204,203,200_.jpg",
+        "price": 20
+    },
+    {
+        
+        "bookname": "Fit @ Any Age : A Practitioner's Guide",
+        "authorname": "Air Marshal P V Iyer",
+        "type": "Health and Fitness",
+        "rating": 4,
+        "bookImage": "https://m.media-amazon.com/images/I/41Iwm5xASGL._SX310_BO1,204,203,200_.jpg",
+        "price": 20
+    },
+    {
+        
+        "bookname": "Great Bridge",
+        "authorname": "David McCullough",
+        "type": "History",
+        "rating": 4,
+        "bookImage": "https://m.media-amazon.com/images/I/41++hnGu2XL._SX328_BO1,204,203,200_.jpg",
+        "price": 20
+    },
+    {
+        
+        "bookname": "Fitness Habits",
+        "authorname": "Amaresh Ojha",
+        "type": "Health and Fitness",
+        "rating": 3.5,
+        "bookImage": "https://m.media-amazon.com/images/I/41L3I2RiB4L._SY344_BO1,204,203,200_.jpg",
+        "price": 20
+    },
+    {
+        
+        "bookname": "The Psychology of Money",
+        "authorname": "Morgan Housel",
+    "type": "Personal Growth",
+        "rating": 3,
+        "bookImage": "https://m.media-amazon.com/images/I/41r6F2LRf8L._SX323_BO1,204,203,200_.jpg",
+        "price": 15
+    },
+    {
+        
+        "bookname": "Sapiens",
+        "authorname": "Yuval Noah Hararai",
+        "rating": 3.8,
+        "bookImage": "https://cdn.shopify.com/s/files/1/1186/0402/files/9780099590088.jpg?v=1611065081",
+        "price": 25,
+        "type": "Personal Growth"
+    },
+    {
+        
+        "bookname": "Entrepreneurship Devlopment",
+        "authorname": "Abha Mathur",
+        "type": "Leadership & Entrepreneurs",
+        "rating": 3.5,
+        "bookImage": "https://www.makemydelivery.com/wp-content/uploads/2021/07/9789391596088L-scaled-600x919.jpg",
+        "price": 20
+    },
+    {
+        
+        "bookname": "Awaken The Giant Within",
+        "authorname": "Tony Robbins",
+        "rating": 4.5,
+        "bookImage": "https://miro.medium.com/max/658/1*7OH-SmAOUJ1gutuS5UU-jg.jpeg",
+        "price": 20,
+        "type": "Personal Growth"
+    },
+    {
+        
+        "bookname": "Michael Hyatt",
+        "authorname": "Tonu Robbins",
+        "rating": 4.5,
+        "bookImage": "https://itsallyouboo.com/wp-content/uploads/2019/03/personal-development-books-on-goal-achievement-Your-Best-Year-Ever-by-Michael-Hyatt.jpg",
+        "price": 20,
+        "type": "Personal Growth"
+    },
+    {
+        
+        "bookname": "Beyond Digital",
+        "authorname": "Paul Leinwand",
+        "type": "Technology",
+        "rating": 4,
+        "bookImage": "https://enterprisersproject.com/sites/default/files/styles/medium/public/2022-01/beyond-digital-book.png?itok=PMLAmh1-",
+        "price": 15
+    },
+    {
+        
+        "bookname": "Deep Work : Rules for focused success in a distracted world",
+        "authorname": "Cal Newport",
+    "type": "Personal Growth",
+        "rating": 4,
+        "bookImage": "https://m.media-amazon.com/images/I/31PBdo581fL._SX317_BO1,204,203,200_.jpg",
+        "price": 15
+    },
+    {
+        
+        "bookname": "Think and Grow Rich",
+        "authorname": "Napoleon Hill",
+        "rating": 4,
+        "bookImage": "https://quickbooost.com/wp-content/uploads/2020/07/Think-Grow-Rich.jpg",
+        "price": 20,
+        "type": "Personal Growth"
+    },
+    {
+        
+        "bookname": "The Growth mindset",
+        "authorname": "Helen Glasgow",
+        "rating": 4,
+        "bookImage": "https://m.media-amazon.com/images/I/51djjDoWW1L.jpg",
+        "price": 20,
+        "type": "Personal Growth"
+    },
+    {
+        
+        "bookname": "Rich Dad Poor Dad",
+        "authorname": "Robert T. Kiyosaki",
+        "rating": 4.5,
+        "bookImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS929PmRhsDw7ilTbm7HrkPDP1TTcb2ieE_-Z0yOnWe8qgtk8sgPzDWYWx6tpq9M2V1C64&usqp=CAU",
+        "price": 30,
+        "type": "Personal Growth"
+    },
+    {
+        
+        "bookname": "Super Coach",
+        "authorname": "Michael Neill",
+        "rating": 3.7,
+        "bookImage": "https://uploads-ssl.webflow.com/5f3548af310729571ef20fdc/60432fe35c6141db6e6de02d_n0xLKKm14ksZAZ6KDA-ueRoVAHZOUCWaX8fMLOh5HFPWYPvF_H7NhpG5YzLgYt-n-u5jeJPyu6QmAX0ZQSQjeepbadGGN00ICMRVyaw_KZD-jl3wd32f0ZXgYxymo46pvCicdR1P.png",
+        "price": 20,
+        "type": "Personal Growth"
+    },
+    {
+        
+        "bookname": "Everyday Chaos: Technology, Complexity and How we're Thriving in a World of Possibility",
+        "authorname": "avid Weinberger",
+        "type": "Technology",
+        "rating": 4,
+        "bookImage": "https://enterprisersproject.com/sites/default/files/styles/medium/public/2022-01/everyday-chaos-book.png?itok=ondVIFUi",
+        "price": 15
+    },
+    {
+        
+        "bookname": "Technology & Society: Second Edition",
+        "authorname": "Deborah G.Johnson",
+        "type": "Technology",
+        "rating": 4,
+        "bookImage": "https://enterprisersproject.com/sites/default/files/styles/medium/public/2022-01/tech-society-book.jpeg?itok=KfMZ8t-9",
+        "price": 15
+    },
+    {
+        
+        "bookname": "Basic of Gym and Fitness",
+        "authorname": "Nikhil Maduskar",
+        "type": "Health and Fitness",
+        "rating": 4,
+        "bookImage": "https://rukminim1.flixcart.com/image/416/416/jw2f6vk0/book/5/3/1/basics-of-gym-and-fitness-original-imafgtzemfmvg9un.jpeg?q=70",
+        "price": 20
+    },
+    {
+        
+        "bookname": "Lose Fat, Get Fittr",
+        "authorname": "Jitendra Chouksey",
+        "type": "Health and Fitness",
+        "rating": 4,
+        "bookImage": "https://cdn.shopify.com/s/files/1/0554/9185/4380/products/lostfat_720x.jpg?v=1657701312",
+        "price": 15
+    },
+    {
+        
+        "bookname": "This Republic of suffering",
+        "authorname": "Drew Gilpin Faust",
+        "type": "History",
+        "rating": 4,
+        "bookImage": "https://m.media-amazon.com/images/I/51elARvX-zL._SX326_BO1,204,203,200_.jpg",
+        "price": 20
+    },
+    {
+        
+        "bookname": "Fallen Idols",
+        "authorname": "Alex von Tunzelmann",
+        "type": "History",
+        "rating": 4,
+        "bookImage": "https://fivebooks.com/app/uploads/2022/05/fallen-idols-196x300.jpg",
+        "price": 20
+    },
+    {
+        
+        "bookname": "Winning the War",
+        "authorname": "Craig Groeschel",
+        "type": "Leadership & Entrepreneurs",
+        "rating": 4.5,
+        "bookImage": "https://99booksstore.com/uploaded_files/product/304772232.webp",
+        "price": 20
+    },
+    {
+        
+        "bookname": "The Age of A.I",
+        "authorname": "Henry Kissinger",
+        "type": "Technology",
+        "rating": 4,
+        "bookImage": "https://enterprisersproject.com/sites/default/files/styles/medium/public/2022-01/age-of-ai-book.jpg?itok=mFlQW8OA",
+        "price": 20
+    },
+    {
+        
+        "bookname": "Everybody wants to rule the world",
+        "authorname": "R.Ray",
+        "type": "Technology",
+        "rating": 4,
+        "bookImage": "https://enterprisersproject.com/sites/default/files/styles/medium/public/2022-01/saveworldbook.jpg?itok=xTLAunWy",
+        "price": 20
+    },
+    {
+        
+        "bookname": "The 12-Week Fitness Project",
+        "authorname": "Rujuta Diwekar",
+        "type": "Health and Fitness",
+        "rating": 4,
+        "bookImage": "https://m.media-amazon.com/images/I/41j4eJBSI1L._SY344_BO1,204,203,200_.jpg",
+        "price": 15
+    },
+    {
+        
+        "bookname": "The Dream Founder : Creating a successful start-up",
+        "authorname": "Dhruv Nath",
+        "type": "Leadership & Entrepreneurs",
+        "rating": 4,
+        "bookImage": "https://m.media-amazon.com/images/I/61Gsb9xDVPL._SX311_BO1,204,203,200_.jpg",
+        "price": 15
+    },
+    {
+        
+        "bookname": "Millionaire Mindset",
+        "authorname": "Mike Deans",
+        "type": "Career and Success",
+        "rating": 4,
+        "bookImage": "https://play-lh.googleusercontent.com/6JJl_CaBSHOjzmfuv7Nx7Lt5hRRw7xz74JOW_BSwyAZSnHO36xtsBy1QG-4Q0P05iYMgSRmktAsAQA=w240-h345-rw",
+        "price": 14
+    },
+    {
+        
+        "bookname": "Think Straight",
+        "authorname": "Darius Foroux",
+        "type": "Career and Success",
+        "rating": 3,
+        "bookImage": "https://m.media-amazon.com/images/I/41JoC4r8JDL._SX322_BO1,204,203,200_.jpg",
+        "price": 16
+    },
+    {
+        
+        "bookname": "The Power of your Subconscious Mind",
+        "authorname": "Joseph Murphy",
+        "type": "Career and Success",
+        "rating": 3,
+        "bookImage": "https://rukminim1.flixcart.com/image/416/416/klo27bk0/regionalbooks/l/x/e/the-power-of-your-subconscious-mind-original-imagyqtgj2yrk2wm.jpeg?q=70",
+        "price": 16
+    },
+    {
+        
+        "bookname": "Be the Leader not a Boss!",
+        "authorname": "Dibyendu Choudhury",
+        "type": "Leadership & Entrepreneurs",
+        "rating": 4.5,
+        "bookImage": "https://m.media-amazon.com/images/I/51XQ8owBKaL._SY344_BO1,204,203,200_.jpg",
+        "price": 25
+    },
+    {
+        
+        "bookname": "Chanakya's 7 Secrets of Leadership",
+        "authorname": "D.Sivanandhan Radhakrishnan Pillai",
+        "type": "Leadership & Entrepreneurs",
+        "rating": 4,
+        "bookImage": "https://m.media-amazon.com/images/I/41RMpmb+FbL._SX322_BO1,204,203,200_.jpg",
+        "price": 15
+    },
+    {
+        
+        "bookname": "Doing Agile Right : Transformation without Choas",
+        "authorname": "Darrell K.Rigby",
+        "type": "Technology",
+        "rating": 3.5,
+        "bookImage": "https://enterprisersproject.com/sites/default/files/styles/medium/public/2022-01/agile-right-book.png?itok=smk7spP6",
+        "price": 15
+    },
+    {
+        
+        "bookname": "Perfect Health : The complete Guide for body and Mind",
+        "authorname": "Tanushree Poder",
+        "type": "Health and Fitness",
+        "rating": 4,
+        "bookImage": "https://cdn.exoticindia.com/images/products/original/books-2019/uay766.jpg",
+        "price": 14
+    },
+    {
+        
+        "bookname": "Do It  Today : Overcome procrastination, improve productivity and achieve more meaningful things",
+        "authorname": "Darius Foroux",
+        "type": "Career and Success",
+        "rating": 3,
+        "bookImage": "https://m.media-amazon.com/images/I/41W-o6xu2bL._SX323_BO1,204,203,200_.jpg",
+        "price": 18
+    },
+    {
+        
+        "bookname": "8 Things to Do hen You Turn 20",
+        "authorname": "Debotosh Chatterjee IRS",
+        "type": "Career and Success",
+        "rating": 4,
+        "bookImage": "https://m.media-amazon.com/images/I/41D7cx3tY9L._SX311_BO1,204,203,200_.jpg",
+        "price": 17
+    },
+    {
+        
+        "bookname": "Ron Chernow",
+        "authorname": "Alexander Hamilton",
+        "type": "History",
+        "rating": 4,
+        "bookImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-historical-books-alexander-hamilton-1600137689.jpg",
+        "price": 30
+    },
+    {
+        
+        "bookname": "Kuberbetes Security and Observability",
+        "authorname": "Brendan Creane",
+        "type": "Technology",
+        "rating": 3.8,
+        "bookImage": "https://enterprisersproject.com/sites/default/files/styles/medium/public/2022-01/kubernetes-book.jpeg?itok=NwLHFzss",
+        "price": 20
+    },
+    {
+        
+        "bookname": "Women of Color in Tech",
+        "authorname": "Susanne Tedrick",
+        "type": "Technology",
+        "rating": 4,
+        "bookImage": "https://enterprisersproject.com/sites/default/files/styles/medium/public/2022-01/woc-book.jpg?itok=JdL8l7U6",
+        "price": 15
+    },
+    {
+        
+        "bookname": "Building the Perfect Body",
+        "authorname": "Yash Birla",
+        "type": "Health and Fitness",
+        "rating": 4,
+        "bookImage": "https://m.media-amazon.com/images/I/51QY+LuM9cL._SX399_BO1,204,203,200_.jpg",
+        "price": 20
+    },
+    {
+        
+        "bookname": "Becoming A Woman Entrepreneur",
+        "authorname": "Krishnamurthy.B",
+        "type": "Leadership & Entrepreneurs",
+        "rating": 4,
+        "bookImage": "https://rukminim1.flixcart.com/image/754/1129/jzog9e80/book/8/1/8/becoming-a-woman-entrepreneur-original-imafjmgk44trxega.jpeg?q=90",
+        "price": 15
+    },
+    {
+        
+        "bookname": "The Unusual Billionaries",
+        "authorname": "Saurabh Mukherjea",
+        "type": "Leadership & Entrepreneurs",
+        "rating": 4,
+        "bookImage": "https://m.media-amazon.com/images/I/415KELNf2ML._SX302_BO1,204,203,200_.jpg",
+        "price": 15
+    },
+    {
+        
+        "bookname": "The First 90 Days",
+        "authorname": "Watkins",
+        "type": "Career and Success",
+        "rating": 5,
+        "bookImage": "https://m.media-amazon.com/images/I/41PFw8q80xL._SX328_BO1,204,203,200_.jpg",
+        "price": 20
+    },
+    {
+        
+        "bookname": "Learning How to Fly : Life lessons for youth",
+        "authorname": "A.P.J Abdul Kalam",
+        "type": "Career and Success",
+        "rating": 4,
+        "bookImage": "https://m.media-amazon.com/images/I/415xfYGetCL._SX311_BO1,204,203,200_.jpg",
+        "price": 20
+    },
+    {
+        
+        "bookname": "Aryan",
+        "authorname": "Aryan",
+    "type": "Personal Growth",
+        "rating": 3,
+        "bookImage": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0414387%2F&psig=AOvVaw1D2WIm37ANwXyjAC6xbNOP&ust=1682530074761000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIjlpo3Hxf4CFQAAAAAdAAAAABAE",
+        "price": 25
+    },
+    {
+        
+        "bookname": "Aryan",
+        "authorname": "Aryan",
+    "type": "History",
+        "rating": 3,
+        "bookImage": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0414387%2F&psig=AOvVaw1D2WIm37ANwXyjAC6xbNOP&ust=1682530074761000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIjlpo3Hxf4CFQAAAAAdAAAAABAE",
+        "price": 25
+    },
+    {
+        
+        "bookname": "aaa",
+        "authorname": "aa",
+    "type": "Personal Growth",
+        "rating": 3,
+        "bookImage": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.simplilearn.com%2Fimage-processing-article&psig=AOvVaw2A5OLfJDzKZ2lNRo3De-cc&ust=1682531910627000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLjjy_jNxf4CFQAAAAAdAAAAABAE",
+        "price": 25
+    },
+    {
+        
+        "bookname": "sankar",
+        "authorname": "sam",
+    "type": "Personal Growth",
+        "rating": 4,
+        "bookImage": "https://www.bing.com/images/search?view=detailV2&ccid=ooJEnLLY&id=85DCD202671DA8D6C242EF5160975A06F005B16C&thid=OIP.ooJEnLLYQohX5VWGFL_XygHaEK&mediaurl=https%3a%2f%2fhelenadailyenglish.com%2fwp-content%2fuploads%2f2018%2f05%2fEntertainment-696x391.jpg&exph=391&expw=696&q=entertainment+image&simid=608046883018051221&FORM=IRPRST&ck=B976B379F7CF17B4248B099651D8E2CA&selectedIndex=17&itb=0",
+        "price": 15
+    },
+    {
+        
+        "bookname": "hello",
+        "authorname": "hello",
+        "type": "Personal Growth",
+        "rating": 2,
+        "bookImage": "d",
+        "price": 10
+    },
+    {
+        
+        "bookname": "jaja",
+        "authorname": "laja",
+    "type": "Personal Growth",
+        "rating": 1,
+        "bookImage": "https://img.freepik.com/free-photo/book-composition-with-open-book_23-2147690555.jpg",
+        "price": 100
+    },
+    {
+        
+        "bookname": "mori",
+        "authorname": "yash",
+    "type": "Personal Growth",
+        "rating": 1,
+        "bookImage": "https://media.gettyimages.com/id/157482029/photo/stack-of-books.jpg?s=612x612&w=gi&k=20&c=_Yaofm8sZLZkKs1eMkv-zhk8K4k5u0g0fJuQrReWfdQ=",
+        "price": 90
+    },
+    {
+        
+        "bookname": "Happy",
+        "authorname": "neha ",
+    "type": "Personal Growth",
+        "rating": 4,
+        "bookImage": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FLibrary-Vertical-Dictionary-Decor-12x18inch-Unframed%2Fdp%2FB09C2ZKGG1&psig=AOvVaw1ztgahYE3XSIAiLoJh0I63&ust=1712634672181000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLC87LrbsYUDFQAAAAAdAAAAABAE",
+        "price": 20
+    },
+    {
+        
+        "bookname": "happy",
+        "authorname": "john",
+        "type": "History",
+        "rating": 4,
+        "bookImage": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FLibrary-Vertical-Dictionary-Decor-12x18inch-Unframed%2Fdp%2FB09C2ZKGG1&psig=AOvVaw1ztgahYE3XSIAiLoJh0I63&ust=1712634672181000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLC87LrbsYUDFQAAAAAdAAAAABAE",
+        "price": 52
+    },
+    {
+        
+        "bookname": "happy",
+        "authorname": "john",
+        "type": "History",
+        "rating": 4,
+        "bookImage": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FLibrary-Vertical-Dictionary-Decor-12x18inch-Unframed%2Fdp%2FB09C2ZKGG1&psig=AOvVaw1ztgahYE3XSIAiLoJh0I63&ust=1712634672181000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLC87LrbsYUDFQAAAAAdAAAAABAE",
+        "price": 52
+    },
+    {
+        
+        "bookname": "The Secret",
+        "authorname": "Rhonda Byrne",
+        "type": "bv",
+        "rating": 5,
+        "bookImage": "https://books.google.com/books/about/The_Secret.html?id=2sN5kscWNgEC&printsec=frontcover&source=kp_read_button&hl=en&newbks=1&newbks_redir=1",
+        "price": 3
+    },
+    {
+        
+        "bookname": "The Secret",
+        "authorname": "Rhonda Byrne",
+    "type": "Personal Growth",
+        "rating": 5,
+        "bookImage": "https://books.google.com/books/about/The_Secret.html?id=2sN5kscWNgEC&printsec=frontcover&source=kp_read_button&hl=en&newbks=1&newbks_redir=1",
+        "price": 3
+    },
+    {
+        
+        "bookname": "dsfsef",
+        "authorname": "sdfsef",
+    "type": "Personal Growth",
+        "rating": 3,
+        "bookImage": "https://images.pexels.com/photos/261821/pexels-photo-261821.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "price": 2
+    },
+    {
+        
+        "bookname": "sdfg",
+        "authorname": "sdfg",
+        "type": "Personal Growth",
+        "rating": 3,
+        "bookImage": "https://images.pexels.com/photos/261821/pexels-photo-261821.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "price": 2
+    },
+    {
+        
+        "bookname": "sdfg",
+        "authorname": "sdfg",
+        "type": "Personal Growth",
+        "rating": 3,
+        "bookImage": "https://images.pexels.com/photos/261821/pexels-photo-261821.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "price": 2
+    },
+    {
+        
+        "bookname": "sdfg",
+        "authorname": "sdfg",
+        "type": "Personal Growth",
+        "rating": 3,
+        "bookImage": "https://images.pexels.com/photos/261821/pexels-photo-261821.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "price": 2
+    },
+    {
+        
+        "bookname": "sdfg",
+        "authorname": "sdfg",
+        "type": "Personal Growth",
+        "rating": 3,
+        "bookImage": "https://images.pexels.com/photos/261821/pexels-photo-261821.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "price": 2
+    },
+    {
+        
+        "bookname": "sdfg",
+        "authorname": "sdfg",
+        "type": "Personal Growth",
+        "rating": 3,
+        "bookImage": "https://images.pexels.com/photos/261821/pexels-photo-261821.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "price": 2
+    },
+    {
+        
+        "bookname": "sdfg",
+        "authorname": "sdfg",
+        "type": "Personal Growth",
+        "rating": 3,
+        "bookImage": "https://images.pexels.com/photos/261821/pexels-photo-261821.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "price": 2
+    },
+    {
+        
+        "bookname": "sdfg",
+        "authorname": "sdfg",
+        "type": "Personal Growth",
+        "rating": 3,
+        "bookImage": "https://images.pexels.com/photos/261821/pexels-photo-261821.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "price": 2
+    },
+    {
+        
+        "bookname": "ssssssssss",
+        "authorname": "sssssssssss",
+    "type": "Personal Growth",
+        "rating": 5,
+        "bookImage": "https://th.bing.com/th/id/OIP.0fWaFvMXXAjViusl4W5DQAHaEo?w=275&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "price": 5e+27
+    },
+    {
+        
+        "bookname": "asdfasdf",
+        "authorname": "adfs",
+        "type": "Personal Growth",
+        "rating": 3,
+        "bookImage": "https://th.bing.com/th/id/OIP.0fWaFvMXXAjViusl4W5DQAHaEo?w=275&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "price": 52
+    },
+    {
+        
+        "bookname": "asdfasdf",
+        "authorname": "adfs",
+        "type": "Personal Growth",
+        "rating": 3,
+        "bookImage": "https://th.bing.com/th/id/OIP.0fWaFvMXXAjViusl4W5DQAHaEo?w=275&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "price": 52
+    }
+]
